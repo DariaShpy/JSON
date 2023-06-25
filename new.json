@@ -1,9 +1,8 @@
 {
-""[DfirstNAme[D[D[D[a[C[C": ""[DDaria"
-""[DLastName": "Shpylieva"
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+	"FirstName": "Daria",
+	"LastName": "Shpylieva",
+	"age": 30,
+	"petsNumber":null,
+	"Salary": 200
+}
 
-"age": "30"
-[A[C[C[C[C[C[C[C[C[C[27,[A[C[C[C[C[C[C[C[C[C[C[C[C[C,[B[B[B[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D["petsNumber"[A[A[D[D[D[D[D[D[D[D[D[l[B[B[C[C[C[C[C[C[C[C[C[C: 0,
-"Salary": 200,
-}[A[B[A[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[null,[B[B
